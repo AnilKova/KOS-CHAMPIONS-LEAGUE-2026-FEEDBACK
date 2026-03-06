@@ -180,7 +180,7 @@
 
 <!-- PAGE HEADER -->
 <div class="page-header">
-  <span class="section-tag">&#9670; KOS CHAMPIONS LEAGUE 2026 &#9670;</span>
+  <span class="section-tag">&#9670; KOS PREMIER LEAGUE 2026 &#9670;</span>
   <h1 class="page-title">SHARE YOUR <em>EXPERIENCE</em></h1>
   <p class="page-desc">Your feedback helps us make every Techtronica bigger and better. A minute of your time means the world to us!</p>
 </div>
@@ -308,7 +308,7 @@
     <div class="fb-success" id="fbSuccess">
       <div class="fb-success-icon">&#10003;</div>
       <h3>FEEDBACK RECEIVED!</h3>
-      <p>Thank you for taking the time to share your experience at KOS CHAMPIONS LEAGUE 2026. Your input helps us make the next edition even more epic. See you in 2027! &#129302;</p>
+      <p>Thank you for taking the time to share your experience at KOS PREMIER LEAGUE 2026. Your input helps us make the next edition even more epic. See you in 2027! &#129302;</p>
       <button onclick="resetFeedback()" class="fb-reset">&#8635; SUBMIT ANOTHER RESPONSE</button>
     </div>
 
